@@ -9,7 +9,7 @@ Understanding the density of states is crucial for exploring phonon interactions
 
 D(ω)=∑iδ(ω−ωi)
 
-**Two-phonon DOS: **
+**Two-phonon DOS:**
 
 D(ω)=∑i,jδ(ω−ωi+ωj)
 
