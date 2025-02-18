@@ -5,15 +5,15 @@ This was inspired by the work detailed in the paper: "Temperature-dependent Rama
 Overview
 Understanding the density of states is crucial for exploring phonon interactions and Raman scattering phenomena. This code is designed to compute:
 
-One-phonon DOS:
+**One-phonon DOS:**
 
 D(ω)=∑iδ(ω−ωi)
 
-Two-phonon DOS: 
+**Two-phonon DOS: **
 
 D(ω)=∑i,jδ(ω−ωi+ωj)
 
-Features
+**Features**
 
 Calculates one-phonon and two-phonon density of states using experimental lattice constants.
 Provides visualizations of the DOS distributions for analysis.
